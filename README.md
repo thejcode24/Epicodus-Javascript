@@ -1,6 +1,6 @@
 # address-book
 
-##### Epicodus Section: JavaScript OO - Address Book
+##### Epicodus Section: JavaScript OOP - Address Book
 
 #### By Epicodus Lessons and re-typed by James Jung
 
